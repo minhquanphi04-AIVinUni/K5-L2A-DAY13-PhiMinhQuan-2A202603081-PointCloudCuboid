@@ -1,4 +1,4 @@
-# Báo cáo cá nhân
+# Day 13 Lab — 2A202603081 - Phí Minh Quân.
 
 Đổi tên bản mẫu `MSSV_HoTen.md` thành báo cáo của bạn (đổi tên, đừng chép thành file thứ hai):
 
